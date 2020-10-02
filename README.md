@@ -55,7 +55,7 @@ One last thing you need to do is download the pre-trained models for face recogn
 2. Extract the two files in the same folder that you earlier created for the project, in my case it would be 'face_recognition' folder.
 
 ## Running the CODE
-
+- Follow the steps to enjoy
 - Create a new recognize.py file in the 'face_recognition' folder and copy the code from this github project into it.
 - run the following command in the terminal:
 
